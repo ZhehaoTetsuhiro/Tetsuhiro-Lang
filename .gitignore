@@ -1,0 +1,20 @@
+# 注曰「铸物不入籍」
+/zhc/zhc
+/_build/
+/dist/
+
+# 注曰「Go 之缓存」
+.gocache/
+.gomodcache/
+.gopath/
+
+# 注曰「编译器与汇编器所产，皆可复铸」
+*.s
+*.仿o
+
+# 注曰「归档与密钥」
+*.tet
+*.tet.key
+*.tet.pub
+*.tar.gz
+*.zip
